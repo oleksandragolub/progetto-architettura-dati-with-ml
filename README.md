@@ -33,7 +33,7 @@ Parte II: si introduce il rumore combinato ovvero gli effetti di più errori sim
 
 - **Feature Noise**, perchè spesso presente in contesti reali con sensori o inserimenti manuali. Impatta le distribuzioni e le correlazioni.
 
-- **Missing Values**, perchè sono molto comuni nel mondo reale- Possono alterare il comportamento dei modelli se non gestiti correttamente.
+- **Missing Values**, perchè sono molto comuni nel mondo reale. Possono alterare il comportamento dei modelli se non gestiti correttamente.
 
 - **Feature Outliers**, perchè pochi valori estremi possono compromettere l’efficacia di modelli non robusti. Vanno identificati e analizzati.
 
