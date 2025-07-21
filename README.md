@@ -7,7 +7,7 @@
 
 ### Fase 2 – introduzione di rumore nei dati di training: 
 
-Esperimento: si introduce il rumore singolo ovvero gli effetti isolati di un solo tipo di errore
+Parte I: si introduce il rumore singolo ovvero gli effetti isolati di un solo tipo di errore
 - **label_noise.ipynb** introduce il rumore nelle etichette (label noise) -> sono le modifiche casuali in y_train
 - **feature_noise.ipynb** introduce il rumore numerico sulle feature (feature noise) -> si aggiunge di rumore gaussiano alle feature
 - **missing_values.ipynb** introduce valori mancanti nelle feature
@@ -15,7 +15,7 @@ Esperimento: si introduce il rumore singolo ovvero gli effetti isolati di un sol
 - **duplicates_features.ipynb** introduce la duplicazione artificiale di righe nel training set –> simula dati ridondanti
 
 
-Esperimento: si introduce il rumore combinato ovvero gli effetti di più errori simultanei
+Parte II: si introduce il rumore combinato ovvero gli effetti di più errori simultanei
 - **label_noise_with_feature_noise.ipynb** introduce il rumore nelle etichette + rumore numerico nelle feature
 - **label_noise_with_missing_values.ipynb** introduce il rumore nelle etichette + valori mancanti nelle feature
 - **feature_noise_with_feature_outliers.ipynb** introduce il rumore numerico nelle feature + outlier artificiali
