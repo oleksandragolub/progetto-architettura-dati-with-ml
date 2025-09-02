@@ -1,4 +1,4 @@
-# progetto-architettura-dati-with-ml
+# progetto-architetture-dati-with-ml
 
 ## Obiettivo del progetto:
 - Valutare la robustezza di diversi modelli di machine learning (es. Decision Tree, Random Forest, SVM, MLP) in presenza di scenari di degradazione dei dati.
